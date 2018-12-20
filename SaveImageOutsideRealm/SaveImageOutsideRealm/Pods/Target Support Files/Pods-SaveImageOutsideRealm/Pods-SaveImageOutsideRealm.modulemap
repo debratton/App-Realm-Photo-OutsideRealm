@@ -1,0 +1,6 @@
+framework module Pods_SaveImageOutsideRealm {
+  umbrella header "Pods-SaveImageOutsideRealm-umbrella.h"
+
+  export *
+  module * { export * }
+}
